@@ -115,7 +115,7 @@ VM Tele Solution Pvt Ltd — Aug 2024 – Feb 2025
 | Repository | Description |
 |------------|-------------|
 | [ai-evaluation-samples](https://github.com/Anurag-Lodhi-CS/ai-evaluation-samples) | Real AI error detection — Math, C++, Bilingual |
-| [cpp-practice](https://github.com/Anurag-Lodhi-CS/cpp-practice) | C and C++ programs — arrays, sorting, algorithms |
+| [cpp-dsa-practice](https://github.com/Anurag-Lodhi-CS/cpp-dsa-practice) | C and C++ programs — arrays, sorting, algorithms |
 | [math-ai-evaluation](https://github.com/Anurag-Lodhi-CS/math-ai-evaluation) | Math error detection — Calculus, Algebra, Statistics |
 | [University-Core-CS](https://github.com/Anurag-Lodhi-CS/University-Core-CS) | CS programs from BSc and MSc at Barkatullah University |
 
